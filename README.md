@@ -2,7 +2,7 @@
 
 
 <p align="center">
-<img src="./img/comet-kohoutek" alt="comet"
+<img src="./img/comet-kohoutek.jpg" alt="comet"
 width="50%"></p>
 
 
