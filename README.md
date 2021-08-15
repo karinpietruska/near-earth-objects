@@ -3,12 +3,12 @@
 
 <p align="center">
 <img src="./img/comet-kohoutek.jpg" alt="comet"
-width="50%"></p>
+width="90%"></p>
 
 
 This project was completed within the Intermediate Udacity Python Nanodegree Program. In this project a command line tool was implemented in python in order to explore close approaches of near-earth objects based on data provided by the NASA/JPL's Center. For Copyright and License questions please contact Udacity. 
 
-The udacity-readme.md file in this repository provices a detailed overview of the project, required implmentations, in depth detail on the datasets used as well as instructions on how to use. In the following, you can find a brief introduction on how to use the command-line tool based on the udacity-readme.md
+The udacity-readme.md file was provided by Udacity along with the starter code. This file provides a detailed overview of the project, required implmentations, in depth detail on the datasets as well as detailed instructions on how to use. In the following, you can find a brief introduction on how to use the command-line tool based on the udacity-readme.md
 
 
 
